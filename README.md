@@ -1,16 +1,17 @@
 # Metricies-Adder
-This is a console application made from java to calculate 2x2 metriecies
 
-To use this console application:
-<h2>Requirments</h2>
-<ul>
-  <li>JAVA 8</li>
- </li>Command line</li>
-  </ul>
-  
-  </h2>How to run</h2>
-  <p>Put your file in one directory</p>
-  <p>Open your cmd by pressing Window key + R.then type cmd</p>
-  </p>Use "cd /yourdistinationfolder" to navigate to your downloded application
-  <p>then type "set path=path\of\your\jdk\folder" ex.(C:\Program Files\Java\jdk1.8.0_121\bin)on your command line</p>
-  <p>now enter java -jar "Metricies_Adder.jar" </p>
+> This is a console application made from java to calculate 2x2 metriecies
+
+## Requirements
+
+- Java >= Version 8
+- Command Line
+
+## Guide
+
+1. Put file in one directory.
+2. Open command line by pressing "Windows Key + R" and typing "cmd".
+3. Use "cd /directory_of_the_git_repo" to navigate to the Application.
+4. Run: java -jar "Metricies_Adder.jar" 
+
+###### For question contact me on discord: ejayz#2275
